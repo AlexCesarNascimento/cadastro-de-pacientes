@@ -20,9 +20,9 @@ Iniciando nossa área de trabalho
 npm init nx-workspace myworkspace
 ```
 
-![terminal1](img\terminal1.png)
+![terminal1](img/terminal1.png)
 
-![terminal2](img\terminal2.png)
+![terminal2](img/terminal2.png)
 
 como meu repositorio criado, vou iniciar o projeto com NodeJS
 
